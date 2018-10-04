@@ -1,2 +1,1 @@
-# x-repo
-OG repository Geekwise Mobile Friendly
+# x-repo "hello world"
